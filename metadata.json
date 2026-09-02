@@ -1,0 +1,6 @@
+{
+  "name": "Global eXpress Delivery Company",
+  "description": "Global eXpress Delivery Company - International parcel tracking, freight logistics, and secure parcel management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
